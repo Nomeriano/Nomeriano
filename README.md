@@ -8,7 +8,7 @@ Trabalho com HTML, CSS, JavaScript e Java. Meu currículo lattes:
 
 <h1> Minha Redes sociais são: </h1>
 <ul>
-  <li><a href="#"> linkedin </a> </li>
-  <li><a href="#"> instagram</a></li>
+  <li><a href="https://www.linkedin.com/in/nomeriano"> linkedin </a> </li>
+  <li><a href="https://www.instagram.com/nomerianoneto/"> instagram</a></li>
 </ul>
   
