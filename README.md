@@ -5,8 +5,8 @@ Trabalho com HTML, CSS, JavaScript e Java. Meu currículo lattes:
 
 <h1> Minha Redes sociais são: </h1>
 <ol>
-  <li><a href"#"> linkedin </a> <li>
-  <li><a href"#"> linkedin </a><li>
-  <li><a href"#"> linkedin </a><li>
+  <li><a href"#"> linkedin </a> </li>
+  <li><a href"#"> linkedin </a></li>
+  <li><a href"#"> linkedin </a></li>
 </ol>
   
