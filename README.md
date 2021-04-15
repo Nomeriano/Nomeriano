@@ -4,9 +4,8 @@ Meu nome é Nomeriano Bezerra, sou formado em ciência da computação pela Univ
 Trabalho com HTML, CSS, JavaScript e Java. Meu currículo lattes:
 
 <h1> Minha Redes sociais são: </h1>
-<ol>
+<ul>
   <li><a href"#"> linkedin </a> </li>
-  <li><a href"#"> linkedin </a></li>
-  <li><a href"#"> linkedin </a></li>
-</ol>
+  <li><a href"#"> instagram</a></li>
+</ul>
   
