@@ -6,9 +6,11 @@ Trabalho com HTML, CSS, JavaScript e Java. Meu currículo lattes: http://lattes.
 <hr>
 
 
-<h1> Minha Redes sociais são: </h1>
+<h3> Minhas Redes sociais: </h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/nomeriano"> linkedin </a> </li>
   <li><a href="https://www.instagram.com/nomerianoneto/"> instagram</a></li>
 </ul>
   
+
+
